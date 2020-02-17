@@ -1,0 +1,14 @@
+{
+    "name": "Easy Score keeperclear",
+    "version": "1.0.0",
+    "description": "sore keeper build by javascript",
+    "main": "index.js",
+    "scripts": {
+      "devserver": "live-server"
+    },
+    "author": "BauLi",
+    "license": "ISC",
+    "devDependencies": {
+      "node-sass": "^4.13.1"
+    }
+  }
